@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am currently a Ph.D. student under the supervision of Professor [Chao Zhang]([https://www.xiaojingliao.com/](https://netsec.ccert.edu.cn/people/chaoz)) and [Zongpeng Li](https://scholar.google.com/citations?user=UnsBY_AAAAAJ&hl=zh-CN). 
+My primary research interests lie at the intersection of cybersecurity, machine learning, binary similarity detection, and malware detection. Specifically, I focus on the following areas:
+
+1. Sociotechnical, with a focus on cybercrime and privacy compliance checks
+2. Trustworthy machine learning, particularly in the realms of robustness, privacy, and their interconnections.
+3. Data-driven privacy and security, with an emphasis on threat intelligence gathering.
+
+My long-term research goal is to discover and understand critical security and privacy issues in cybersystems or AI systems through data-oriented analysis, and to design and develop innovative solutions to address these issues with robust, private guarantees for different real-world applications.
+
+
 
 A data-driven personal website
 ======
