@@ -13,7 +13,7 @@ My primary research interests lie at the intersection of cybersecurity and artif
 
 1. AI security in the computer vision domain, such as adversarial, backdoor, and bit-flip attacks.
 2. AI security in other domains (such as learning-based malware detectors, and binary similarity detection models).
-3. AI Interpretability.
+3. AI interpretability.
 
 Email: wang-jl22@mails.tsinghua.edu.cn or wangjialai97@gmail.com
 
