@@ -8,12 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student under the supervision of Professor [Chao Zhang]([https://www.xiaojingliao.com/](https://netsec.ccert.edu.cn/people/chaoz)) and [Zongpeng Li](https://scholar.google.com/citations?user=UnsBY_AAAAAJ&hl=zh-CN). 
-My primary research interests lie at the intersection of cybersecurity, machine learning, binary similarity detection, and malware detection. Specifically, I focus on the following areas:
+I am currently a Ph.D. student under the supervision of Professor [Chao Zhang](https://netsec.ccert.edu.cn/people/chaoz) and [Zongpeng Li](https://scholar.google.com/citations?user=UnsBY_AAAAAJ&hl=zh-CN). 
+My primary research interests lie at the intersection of cybersecurity, artificial intelligence (AI), binary similarity detection, and malware detection. Specifically, I focus on the following areas:
 
-1. Sociotechnical, with a focus on cybercrime and privacy compliance checks
-2. Trustworthy machine learning, particularly in the realms of robustness, privacy, and their interconnections.
-3. Data-driven privacy and security, with an emphasis on threat intelligence gathering.
+1. AI security in the computer vision domain, such as adversarial, backdoor, and bit-flip attacks.
+2. AI security in learning-based binary similarity detection models.
+3. AI security in learning-based malware detectors.
+4. AI Interpretability.
 
 My long-term research goal is to discover and understand critical security and privacy issues in cybersystems or AI systems through data-oriented analysis, and to design and develop innovative solutions to address these issues with robust, private guarantees for different real-world applications.
 
