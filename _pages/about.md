@@ -37,7 +37,7 @@ Publications
 ### Journals  
 ------------------
 1.  [**A Survey of Intelligent Malware Detection on Windows Platform**]
-    Jialai Wang, Chao Zhang, Xuyan Qi, Yi Rong.    
+    **Jialai Wang**, Chao Zhang, Xuyan Qi, Yi Rong.    
     Journal of Computer Research and Development, 2021, 58(5): 977-994 
 
 
