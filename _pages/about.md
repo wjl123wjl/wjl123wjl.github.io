@@ -22,13 +22,15 @@ Publications
 ------------------
 ### Conferences 
 ------------------
-1.	[**MPass: Bypassing Learning-based Static Malware Detectors**](/chs/publications/23-MPass)  
+[**Aegis: Mitigating Targeted Bit-flip Attacks against Deep Neural Networks**](/chs/publications/23-Aegis)  
+    **Jialai Wang**, Ziyuan Zhang, Meiqi Wang, Han Qiu, Tianwei Zhang, Qi Li, Zongpeng Li, Tao Wei, Chao Zhang\
+    To appear in the 32st USENIX Security Symposium (__USENIX Security’23__), Anaheim, CA, USA, AUGUST 9–11 2023
+    
+[**MPass: Bypassing Learning-based Static Malware Detectors**](/chs/publications/23-MPass)  
     **Jialai Wang**, Wenjie Qu, Yi Rong, Han Qiu, Qi Li, Zongpeng Li, Chao Zhang\
     To appear in Design Automation Conference (__DAC'60__), San Francisco, CA, USA, July 9-13 2023
-2.	[**Aegis: Mitigating Targeted Bit-flip Attacks against Deep Neural Networks**](/chs/publications/23-Aegis)  
-    **Jialai Wang**, Ziyuan Zhang, Meiqi Wang, Han Qiu, Tianwei Zhang, Qi Li, Zongpeng Li, Tao Wei, Chao Zhang\
-    To appear in the 32st USENIX Security Symposium (__USENIX Security’23__)
-3.	[**BET: Black-box Efficient Testing for Convolutional Neural Networks**](/chs/publications/issta22-bet)  
+   
+[**BET: Black-box Efficient Testing for Convolutional Neural Networks**](/chs/publications/issta22-bet)  
     **Jialai Wang**, Han Qiu, Yi Rong, Hengkai Ye, Qi Li, Zongpeng Li, Chao Zhang\
     To appear in _the ACM SIGSOFT International Symposium on Software Testing and Analysis (**ISSTA'22**)_, Daejeon, South Korea, July 2022
 
