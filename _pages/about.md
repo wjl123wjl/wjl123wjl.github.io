@@ -22,21 +22,21 @@ Publications
 ------------------
 ### Conferences 
 ------------------
-[**Aegis: Mitigating Targeted Bit-flip Attacks against Deep Neural Networks**] 
+[**Aegis: Mitigating Targeted Bit-flip Attacks against Deep Neural Networks**]()
     **Jialai Wang**, Ziyuan Zhang, Meiqi Wang, Han Qiu, Tianwei Zhang, Qi Li, Zongpeng Li, Tao Wei, Chao Zhang\
     To appear in the 32nd USENIX Security Symposium (__USENIX Security’23__), Anaheim, CA, USA, AUGUST 9–11 2023
     
-[**MPass: Bypassing Learning-based Static Malware Detectors**]
+[**MPass: Bypassing Learning-based Static Malware Detectors**]()
     **Jialai Wang**, Wenjie Qu, Yi Rong, Han Qiu, Qi Li, Zongpeng Li, Chao Zhang\
     To appear in the Design Automation Conference (__DAC'23__), San Francisco, CA, USA, July 9-13 2023
    
-[**BET: Black-box Efficient Testing for Convolutional Neural Networks**]  
+[**BET: Black-box Efficient Testing for Convolutional Neural Networks**]()
     **Jialai Wang**, Han Qiu, Yi Rong, Hengkai Ye, Qi Li, Zongpeng Li, Chao Zhang\
     To appear in _the ACM SIGSOFT International Symposium on Software Testing and Analysis (**ISSTA'22**)_, Daejeon, South Korea, July 2022
 
 ### Journals  
 ------------------
-1.  [**A Survey of Intelligent Malware Detection on Windows Platform**]
+1.  [**A Survey of Intelligent Malware Detection on Windows Platform**]()
     **Jialai Wang**, Chao Zhang, Xuyan Qi, Yi Rong.    
     Journal of Computer Research and Development, 2021, 58(5): 977-994 
 
