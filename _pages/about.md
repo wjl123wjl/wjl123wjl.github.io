@@ -22,6 +22,12 @@ Publications
 ------------------
 ### Conferences 
 ------------------
+[**Improving ML-based Binary Function Similarity Detection by Assessing and Deprioritizing Control Flow Graph Features**]()
+
+**Jialai Wang**, Chao Zhang, Longfei Chen, Yi Rong, Yuxiao Wu, Hao Wang, Wende Tan, Qi Li, Zongpeng Li
+
+To appear in the 33rd USENIX Security Symposium (__USENIX Security’24__), Anaheim, CA, USA, AUGUST 14–16 2024
+
 [**Aegis: Mitigating Targeted Bit-flip Attacks against Deep Neural Networks**]()
 
 **Jialai Wang**, Ziyuan Zhang, Meiqi Wang, Han Qiu, Tianwei Zhang, Qi Li, Zongpeng Li, Tao Wei, Chao Zhang
