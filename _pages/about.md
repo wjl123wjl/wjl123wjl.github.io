@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 I'm a research fellow at NUS under the supervision of Professor [Zhenkai Liang](https://www.comp.nus.edu.sg/~liangzk/).
-I received my Ph.D. degree at [Tsinghua University](https://www.tsinghua.edu.cn/en/) under the supervision of Professor [Chao Zhang](https://netsec.ccert.edu.cn/people/chaoz) and [Zongpeng Li](https://scholar.google.com/citations?user=UnsBY_AAAAAJ&hl=zh-CN). I received a B.E. from [Huazhong University of Science and Technology](https://english.hust.edu.cn/) (HUST) in 2019 (with the highest honor). 
+I received my Ph.D. degree at [Tsinghua University](https://www.tsinghua.edu.cn/en/) under the supervision of Professor [Chao Zhang](https://netsec.ccert.edu.cn/people/chaoz) and [Zongpeng Li](https://scholar.google.com/citations?user=UnsBY_AAAAAJ&hl=zh-CN) in 2024. I received a B.E. from [Huazhong University of Science and Technology](https://english.hust.edu.cn/) (HUST) in 2019 (with the highest honor). 
 My primary research interests lie in artificial intelligence (AI) security. Specifically, I focus on the following areas:
 
 1. AI security in the computer vision domain, such as adversarial, backdoor, and bit-flip attacks.
