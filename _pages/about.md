@@ -16,7 +16,7 @@ My primary research interests lie in artificial intelligence (AI) security. Spec
 3. AI for security (such as developing learning-based models for binary function similarity detection).
 4. AI interpretability.
 
-Email: wangjialai97@gmail.com
+Email: jialai@nus.edu.sg or wangjialai97@gmail.com
 
 
 Publications
