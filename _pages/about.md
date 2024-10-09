@@ -58,11 +58,11 @@ Journal of Computer Research and Development, 2021, 58(5): 977-994
 
 Reviewer
 ------------------
-IEEE Transactions on Information Forensics and Security (2024)
+IEEE Transactions on Information Forensics and Security (TIFS) [2024]
 
-ACM Transactions on Privacy and Security (2024)
+ACM Transactions on Privacy and Security [2024]
 
-Journal of Systems Architecture: Embedded Software (2024)
+Journal of Systems Architecture: Embedded Software [2024]
 
 External Reviewer
 ------------------
