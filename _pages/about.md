@@ -59,7 +59,7 @@ To appear in _the ACM SIGSOFT International Symposium on Software Testing and An
 
 Longfei Chen, Hao Wang, Yuchen Zhou, Taiyu Wong, **Jialai Wang**, Chao Zhang
 
-Journal of Computer Research and Development, 2021, 58(5): 977-994 
+IEEE Transactions on Dependable and Secure Computing, 2025
 
 
 [**A Survey of Intelligent Malware Detection on Windows Platform**]()
