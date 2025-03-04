@@ -23,6 +23,12 @@ Publications
 ------------------
 ### Conferences 
 ------------------
+[**Your Scale Factors are My Weapon: Targeted Bit-Flip Attacks on Vision Transformers via Scale Factor Manipulation**]()
+
+**Jialai Wang**, Yuxiao Wu, Weiye Xu, Yating Huang, Chao Zhang, Zongpeng Li, Mingwei Xu, Zhenkai Liang
+
+To appear in Computer Vision and Pattern Recognition (__CVPR’25__), Nashville, TN, USA, JUNE 11–15 2025
+
 [**Improving ML-based Binary Function Similarity Detection by Assessing and Deprioritizing Control Flow Graph Features**]()
 
 **Jialai Wang**, Chao Zhang, Longfei Chen, Yi Rong, Yuxiao Wu, Hao Wang, Wende Tan, Qi Li, Zongpeng Li
@@ -49,6 +55,13 @@ To appear in _the ACM SIGSOFT International Symposium on Software Testing and An
 
 ### Journals  
 ------------------
+[**SmartTrans: Advanced Similarity Analysis for Detecting Vulnerabilities in Ethereum Smart Contracts**]()
+
+Longfei Chen, Hao Wang, Yuchen Zhou, Taiyu Wong, **Jialai Wang**, Chao Zhang
+
+Journal of Computer Research and Development, 2021, 58(5): 977-994 
+
+
 [**A Survey of Intelligent Malware Detection on Windows Platform**]()
 
 **Jialai Wang**, Chao Zhang, Xuyan Qi, Yi Rong
