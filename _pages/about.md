@@ -71,6 +71,8 @@ Journal of Computer Research and Development, 2021, 58(5): 977-994
 
 Reviewer
 ------------------
+IEEE Transactions on Dependable and Secure Computing (TDSC) [2025]
+
 IEEE Transactions on Information Forensics and Security (TIFS) [2024]
 
 ACM Transactions on Privacy and Security [2024]
