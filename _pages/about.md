@@ -51,7 +51,7 @@ To appear in the Design Automation Conference (__DAC'23__), San Francisco, CA, U
 
 **Jialai Wang**, Han Qiu, Yi Rong, Hengkai Ye, Qi Li, Zongpeng Li, Chao Zhang
 
-To appear in _the ACM SIGSOFT International Symposium on Software Testing and Analysis (**ISSTA'22**)_, Daejeon, South Korea, July 2022
+To appear in the ACM SIGSOFT International Symposium on Software Testing and Analysis (**ISSTA'22**), Daejeon, South Korea, July 2022
 
 ### Journals  
 ------------------
