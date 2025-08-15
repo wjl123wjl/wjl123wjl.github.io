@@ -23,6 +23,12 @@ Publications
 ------------------
 ### Conferences 
 ------------------
+[**Improving LLM-based Log Parsing by Learning from Errors in Reasoning Traces**]()
+
+**Jialai Wang**, Juncheng Lu, Jie Yang, Junjie Wang, Zeyu Gao, Chao Zhang, Zhenkai Liang, Ee-Chien Chang
+
+To appear in IEEE/ACM International Conference on Automated Software Engineering (__ASE’25__), Seoul, South Korea, November 16–20 2025
+
 [**Your Scale Factors are My Weapon: Targeted Bit-Flip Attacks on Vision Transformers via Scale Factor Manipulation**]()
 
 **Jialai Wang**, Yuxiao Wu, Weiye Xu, Yating Huang, Chao Zhang, Zongpeng Li, Mingwei Xu, Zhenkai Liang
