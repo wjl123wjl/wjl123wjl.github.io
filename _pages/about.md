@@ -9,12 +9,7 @@ redirect_from:
 ---
 I'm a research fellow (Postdoc) at [National University of Singapore](https://www.nus.edu.sg/).
 I received my Ph.D. degree at [Tsinghua University](https://www.tsinghua.edu.cn/en/) under the supervision of Professor [Chao Zhang](https://netsec.ccert.edu.cn/people/chaoz), [Qi Li](https://sites.google.com/site/qili2012/) and [Zongpeng Li](https://scholar.google.com/citations?user=UnsBY_AAAAAJ&hl=zh-CN). I received a B.E. from [Huazhong University of Science and Technology](https://english.hust.edu.cn/) (with the highest honor). 
-My primary research interests lie in artificial intelligence (AI) security. Specifically, I focus on the following areas:
-
-1. AI security in the computer vision domain, such as adversarial, backdoor, and bit-flip attacks.
-2. AI security in other domains (such as learning-based malware detectors, and binary function similarity detection models).
-3. AI for security (such as developing learning-based models for binary function similarity detection).
-4. AI interpretability.
+My primary research interests lie in AI for security.
 
 Email: jialai@nus.edu.sg or wangjialai97@gmail.com
 
