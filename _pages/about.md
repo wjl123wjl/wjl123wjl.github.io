@@ -76,7 +76,7 @@ IEEE Transactions On Computer-Aided Design of Integrated Circuits & Systems (TCA
 
 IEEE Transactions on Dependable and Secure Computing (TDSC) [2025]
 
-IEEE Transactions on Information Forensics and Security (TIFS) [2024]
+IEEE Transactions on Information Forensics and Security (TIFS) [2024,2025]
 
 ACM Transactions on Privacy and Security [2024]
 
