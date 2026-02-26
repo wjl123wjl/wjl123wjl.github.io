@@ -72,6 +72,8 @@ Journal of Computer Research and Development, 2021, 58(5): 977-994
 
 Reviewer
 ------------------
+Cyber Security and Applications [2026]
+
 IEEE Transactions On Computer-Aided Design of Integrated Circuits & Systems (TCAD) [2025]
 
 IEEE Transactions on Dependable and Secure Computing (TDSC) [2025]
