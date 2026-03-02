@@ -18,6 +18,12 @@ Publications
 ------------------
 ### Conferences 
 ------------------
+[**Targeted Bit-flip Attacks on LLM-Based Agents**]()
+
+**Jialai Wang**, Wen Ya, Zhongmou Liu, Yuxiao Wu, Bingyi He, Zongpeng Li, Ee-Chien Chang
+
+To appear in the Design Automation Conference (__DAC'26__)
+
 [**Improving LLM-based Log Parsing by Learning from Errors in Reasoning Traces**]()
 
 **Jialai Wang**, Juncheng Lu, Jie Yang, Junjie Wang, Zeyu Gao, Chao Zhang, Zhenkai Liang, Ee-Chien Chang
