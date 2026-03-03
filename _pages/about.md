@@ -20,7 +20,7 @@ Publications
 ------------------
 [**Targeted Bit-flip Attacks on LLM-Based Agents**]()
 
-**Jialai Wang**, Wen Ya, Zhongmou Liu, Yuxiao Wu, Bingyi He, Zongpeng Li, Ee-Chien Chang
+**Jialai Wang**, Ya Wen, Zhongmou Liu, Yuxiao Wu, Bingyi He, Zongpeng Li, Ee-Chien Chang
 
 To appear in the Design Automation Conference (__DAC'26__)
 
