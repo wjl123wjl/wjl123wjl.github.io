@@ -78,6 +78,8 @@ Journal of Computer Research and Development, 2021, 58(5): 977-994
 
 Reviewer
 ------------------
+ACM Transactions on Privacy and Security [2026]
+
 Cyber Security and Applications [2026]
 
 IEEE Transactions On Computer-Aided Design of Integrated Circuits & Systems (TCAD) [2025]
