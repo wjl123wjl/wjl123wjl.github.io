@@ -78,6 +78,8 @@ Journal of Computer Research and Development, 2021, 58(5): 977-994
 
 Reviewer
 ------------------
+ACM Transactions on Software Engineering and Methodology (TOSEM) [2026]
+
 ACM Transactions on Privacy and Security [2026]
 
 Cyber Security and Applications [2026]
