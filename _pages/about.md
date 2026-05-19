@@ -86,6 +86,8 @@ ACM Transactions on Privacy and Security [2026]
 
 Cyber Security and Applications [2026]
 
+ACM Journal of Experimental & Theoretical Artificial Intelligence [2026]
+
 IEEE Transactions On Computer-Aided Design of Integrated Circuits & Systems (TCAD) [2025]
 
 IEEE Transactions on Information Forensics and Security (TIFS) [2024,2025]
