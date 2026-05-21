@@ -78,6 +78,8 @@ Journal of Computer Research and Development, 2021, 58(5): 977-994
 
 Reviewer
 ------------------
+IEEE Transactions on Information Forensics and Security (TIFS) [2024,2025,2026]
+
 IEEE Transactions on Dependable and Secure Computing (TDSC) [2025,2026]
 
 ACM Transactions on Software Engineering and Methodology (TOSEM) [2026]
@@ -89,8 +91,6 @@ Cyber Security and Applications [2026]
 ACM Journal of Experimental & Theoretical Artificial Intelligence [2026]
 
 IEEE Transactions On Computer-Aided Design of Integrated Circuits & Systems (TCAD) [2025]
-
-IEEE Transactions on Information Forensics and Security (TIFS) [2024,2025]
 
 ACM Transactions on Privacy and Security [2024]
 
