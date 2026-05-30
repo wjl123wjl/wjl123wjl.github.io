@@ -80,7 +80,7 @@ Reviewer
 ------------------
 IEEE Transactions on Information Forensics and Security (TIFS) [2024,2025,2026]
 
-IEEE Transactions on Dependable and Secure Computing (TDSC) [2025,2026]
+IEEE Transactions on Dependable and Secure Computing (TDSC) [2024,2026]
 
 ACM Transactions on Software Engineering and Methodology (TOSEM) [2026]
 
