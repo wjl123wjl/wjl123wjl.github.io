@@ -90,7 +90,7 @@ Cyber Security and Applications [2026]
 
 ACM Journal of Experimental & Theoretical Artificial Intelligence [2026]
 
-IEEE Transactions On Computer-Aided Design of Integrated Circuits & Systems (TCAD) [2025]
+IEEE Transactions On Computer-Aided Design of Integrated Circuits & Systems (TCAD) [2025,2026]
 
 Journal of Systems Architecture: Embedded Software [2024]
 
