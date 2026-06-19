@@ -18,6 +18,27 @@ Publications
 ------------------
 ### Conferences 
 ------------------
+
+[**Are Reasoning Traces Faithful in LLM-Based Code Vulnerability Detection?**]() ![CCF A](https://img.shields.io/badge/CCF%20Rank-A-red)
+
+**Jialai Wang**, Juncheng Lu, Songtao Yang, Bingyi He, Zeyu Gao, Chao Zhang, Shuai Wang
+
+To appear in IEEE/ACM International Conference on Automated Software Engineering (__ASE’26__), Munich, Germany, October 12–16 2026
+
+
+
+[**SmartPoC: Validating Smart Contract Vulnerability Findings through PoC Generation and Execution?**]() ![CCF A](https://img.shields.io/badge/CCF%20Rank-A-red)
+
+
+Longfei Chen, Ruibin Yan, Taiyu Wong, Yiyang Chen, **Jialai Wang**, Chao Zhang
+
+To appear in IEEE/ACM International Conference on Automated Software Engineering (__ASE’26__), Munich, Germany, October 12–16 2026
+
+
+
+
+
+
 [**Targeted Bit-flip Attacks on LLM-Based Agents**](https://arxiv.org/abs/2603.10042) ![CCF A](https://img.shields.io/badge/CCF%20Rank-A-red)
 
 **Jialai Wang**, Ya Wen, Zhongmou Liu, Yuxiao Wu, Bingyi He, Zongpeng Li, Ee-Chien Chang
