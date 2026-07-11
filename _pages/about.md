@@ -27,13 +27,20 @@ To appear in IEEE/ACM International Conference on Automated Software Engineering
 
 
 
-[**SmartPoC: Validating Smart Contract Vulnerability Findings through PoC Generation and Execution?**]() ![CCF A](https://img.shields.io/badge/CCF%20Rank-A-red)
+[**SmartPoC: Validating Smart Contract Vulnerability Findings through PoC Generation and Execution**]() ![CCF A](https://img.shields.io/badge/CCF%20Rank-A-red)
 
 
 Longfei Chen, Ruibin Yan, Taiyu Wong, Yiyang Chen, **Jialai Wang**, Chao Zhang
 
 To appear in IEEE/ACM International Conference on Automated Software Engineering (__ASE’26__), Munich, Germany, October 12–16 2026
 
+
+[**mono: Is Source Code Enough for Verification? Stratifying Patch-Mined Vulnerability Fixes by Context Sufficiency**]() ![CCF A](https://img.shields.io/badge/CCF%20Rank-B-orange) 
+
+
+Zeyu Gao, Junlin Zhou, Chao Zhang, Yi He, Bolun Zhang, **Jialai Wang**, Jiutian Zeng
+
+To appear in  International Symposium on Research in Attacks, Intrusions and Defenses (__RAID’26__), Lancaster, UK, Oct 11–14, 2026
 
 
 
