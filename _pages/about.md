@@ -34,6 +34,8 @@ Longfei Chen, Ruibin Yan, Taiyu Wong, Yiyang Chen, **Jialai Wang**, Chao Zhang
 
 To appear in IEEE/ACM International Conference on Automated Software Engineering (__ASE’26__), Munich, Germany, October 12–16 2026
 
+🏆 **Distinguished Paper Award**
+
 
 ![CCF B](https://img.shields.io/badge/CCF%20Rank-B-orange) [**mono: Is Source Code Enough for Verification? Stratifying Patch-Mined Vulnerability Fixes by Context Sufficiency**]()  
 
