@@ -48,7 +48,7 @@ To appear in  International Symposium on Research in Attacks, Intrusions and Def
 
 
 
- ![CCF A](https://img.shields.io/badge/CCF%20Rank-A-red) [**Targeted Bit-flip Attacks on LLM-Based Agents**](https://arxiv.org/abs/2603.10042)
+ ![CCF A](https://img.shields.io/badge/CCF%20Rank-A-red) [**Targeted Bit-flip Attacks on LLM-Based Agents**](https://dl.acm.org/doi/abs/10.1145/3770743.3804039)
 
 **Jialai Wang**, Ya Wen, Zhongmou Liu, Yuxiao Wu, Bingyi He, Zongpeng Li, Ee-Chien Chang
 
